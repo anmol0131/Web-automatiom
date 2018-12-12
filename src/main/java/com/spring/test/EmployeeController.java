@@ -11,6 +11,8 @@ class EmployeeController {
 
     @RequestMapping(value = "/addEmployee", method = RequestMethod.POST)
     public String addEmployee(HttpServletRequest request)  {
+
+
         String pathValue1 = request.getParameter("name");
         String pathValue2 = request.getParameter("id");
         String pathValue3 = request.getParameter("ContactNumber");
