@@ -1,2 +1,1 @@
-# Web-automatiom
-ye dekh
+# Web-automation
