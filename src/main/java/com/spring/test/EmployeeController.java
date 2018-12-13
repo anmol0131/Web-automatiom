@@ -16,7 +16,7 @@ class EmployeeController {
         String pathValue3 = request.getParameter("ContactNumber");
         String html =
                 "<html>" +
-                "<h1> Emloyees detail </h1>" +
+                "<h1> Emloyees detail values </h1>" +
                         "<h3 id=\"name\"> Name: " + pathValue1 + "</h3>" +
                         "<h3 id=\"id\"> Id: " + pathValue2 + "</h3>" +
                         "<h3 id=\"num\"> ContactNumber: " + pathValue3 + "</h3>" +
