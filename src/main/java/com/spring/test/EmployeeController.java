@@ -17,9 +17,7 @@ class EmployeeController {
         String html =
                 "<html>" +
 
-                "<h1> anmol table</h1>" +
-
-                "<h1> Emloyees details value </h1>" +
+                        "<h1> Emloyees details data </h1>" +
 
                         "<h3 id=\"name\"> Name: " + pathValue1 + "</h3>" +
                         "<h3 id=\"name\"> Name: " + pathValue1 + "</h3>" +
